@@ -10,7 +10,7 @@ Choose to login with Gitlab and then "Sign in with Helmholtz ID". You should the
 
 ## Shared documents
 
-The pyAML “software requirement specification” document is visible here: url[https://www.overleaf.com/read/hnrqzhfpbvpp#ef8935](https://www.overleaf.com/read/hnrqzhfpbvpp#ef8935)
+The pyAML “software requirement specification” document is visible here: [https://www.overleaf.com/read/hnrqzhfpbvpp#ef8935](https://www.overleaf.com/read/hnrqzhfpbvpp#ef8935)
 
 ## Mailing list
 
