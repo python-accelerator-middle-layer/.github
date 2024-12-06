@@ -12,6 +12,8 @@ Choose to login with Gitlab and then "Sign in with Helmholtz ID". You should the
 
 The pyAML “software requirement specification” document is visible here: [https://www.overleaf.com/read/hnrqzhfpbvpp#ef8935](https://www.overleaf.com/read/hnrqzhfpbvpp#ef8935)
 
+A document to gather and identify required configuration data is here: [https://docs.google.com/document/d/1z_zSuKk6avBm0qupLpB4oZKf796rdkB_IeK6ABEj4Ic/edit?usp=sharing](https://docs.google.com/document/d/1z_zSuKk6avBm0qupLpB4oZKf796rdkB_IeK6ABEj4Ic/edit?usp=sharing)
+
 ## Mailing list
 
 To be added to the pyAML mailing list please write to S.Liuzzo.
