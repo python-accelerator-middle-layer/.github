@@ -4,9 +4,9 @@ Python Accelerator Middle Layer (pyAML) is a joint technology platform to develo
 
 ## Discussions
 
-[Mattermost](https://mattermost.hzdr.de/accelerator-middle-layer/channels/town-square)
+[Mattermost channel](https://mattermost.hzdr.de/signup_user_complete/?id=cdcea9p8hfr3ic8jdrrydzxxpy&md=link&sbr=su)
 
-(please log in using Helmoltz ID, you will be prompt to access with your own lab/university credentials)
+Choose to login with Gitlab and then "Sign in with Helmholtz ID". You should then be able to choose your organisation and login with your lab/university credentials.
 
 ## Shared documents
 
@@ -14,4 +14,4 @@ The pyAML “software requirement specification” document is visible here: url
 
 ## Mailing list
 
-To be added to the pyAML mailing list please write to S.Liuzzo
+To be added to the pyAML mailing list please write to S.Liuzzo.
