@@ -16,4 +16,4 @@ A document to gather and identify required configuration data is here: [https://
 
 ## Mailing list
 
-To be added to the pyAML mailing list please write to S.Liuzzo.
+To be added to the pyAML mailing list please write to S. Liuzzo.
