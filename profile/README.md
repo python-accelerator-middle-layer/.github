@@ -16,6 +16,10 @@ User Tutorial Driven Development (examples and code snippets):  https://www.over
 
 A document to gather and identify required configuration data is here: [https://docs.google.com/document/d/1z_zSuKk6avBm0qupLpB4oZKf796rdkB_IeK6ABEj4Ic/edit?usp=sharing](https://docs.google.com/document/d/1z_zSuKk6avBm0qupLpB4oZKf796rdkB_IeK6ABEj4Ic/edit?usp=sharing)
 
+**Weekly open zoom meeting for those who want to work on the documents together**:
+
+Fridays 9.00-10.00 (CET): https://esrf.zoom.us/j/94878115036?pwd=2rsI5goxratGwXc5mRT99suMky2I34.1
+
 ## Mailing list
 
 To be added to the pyAML mailing list please write to S. Liuzzo.
