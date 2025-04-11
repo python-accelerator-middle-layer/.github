@@ -1,6 +1,15 @@
-Python Accelerator Middle Layer (pyAML) is a joint technology platform to develop common tools for control, tuning and development of storage rings, beam transport lines and linear accelerators.
+Python Accelerator Middle Layer (pyAML) is a joint technology platform for design, commissioning and operation of particle accelerators.
 
 # Collaboration community
+
+## Weekly meeting
+
+We have a weekly open zoom meeting for those who want to work on the specification documents together.
+
+Fridays 9.00-10.00 (CET): https://esrf.zoom.us/j/94878115036?pwd=2rsI5goxratGwXc5mRT99suMky2I34.1
+
+Next week (14-18 April) the meeting is moved to **16 April 9.00** because of Easter holidays.
+We will work on finishing chapter 2 in the Tutorial document.
 
 ## Discussions
 
@@ -16,9 +25,7 @@ User Tutorial Driven Development (examples and code snippets):  https://www.over
 
 A document to gather and identify required configuration data is here: [https://docs.google.com/document/d/1z_zSuKk6avBm0qupLpB4oZKf796rdkB_IeK6ABEj4Ic/edit?usp=sharing](https://docs.google.com/document/d/1z_zSuKk6avBm0qupLpB4oZKf796rdkB_IeK6ABEj4Ic/edit?usp=sharing)
 
-**Weekly open zoom meeting for those who want to work on the documents together**:
 
-Fridays 9.00-10.00 (CET): https://esrf.zoom.us/j/94878115036?pwd=2rsI5goxratGwXc5mRT99suMky2I34.1
 
 ## Mailing list
 
