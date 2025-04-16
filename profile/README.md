@@ -8,8 +8,7 @@ We have a weekly open zoom meeting for those who want to work on the specificati
 
 Fridays 9.00-10.00 (CET): https://esrf.zoom.us/j/94878115036?pwd=2rsI5goxratGwXc5mRT99suMky2I34.1
 
-Next week (14-18 April) the meeting is moved to **16 April 9.00** because of Easter holidays.
-We will work on finishing chapter 2 in the Tutorial document.
+Next week we will work on finishing chapter 2 in the Tutorial document. We are currently at section 2.2.2 Attribute Types.
 
 ## Shared documents
 
