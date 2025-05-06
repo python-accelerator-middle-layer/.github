@@ -20,6 +20,10 @@ Next week we will work on finishing chapter 2 in the Tutorial document. We are c
 
 ## Shared documents
 
+Documents concerning the governance of the collaboration (guidelines, meeting minutes, funding application etc.) can be found at https://github.com/python-accelerator-middle-layer/governance
+
+Some documents we are still working on together. The links are below:
+
 Specification (general description):  https://www.overleaf.com/6632675387jrmgtdnzbxhq#b3b3c5
 
 User Tutorial Driven Development (examples and code snippets):  https://www.overleaf.com/8296337372wkxgpsdvrptp#3d77d7
