@@ -6,7 +6,7 @@ To contact the steering committee, email pyaml-steering-committee-contact@esrf.f
 
 ## Mailing list
 
-There is a community email list for announcements/questions. To be added to the email list write to the contact email address above.
+There is a community email list. To be added to it, write to the contact email address above.
 
 If you want to unsubscribe to the email list, send an email to accelerator_middle_layer-unsubscribe@esrf.fr and you are automatically unsubscribed.
 
