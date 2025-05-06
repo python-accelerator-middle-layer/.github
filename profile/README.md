@@ -2,6 +2,14 @@ Python Accelerator Middle Layer (pyAML) is a joint technology platform for desig
 
 # Collaboration community
 
+To contact the steering committee, email pyaml-steering-committee-contact@esrf.fr. This address goes to the person/s the steering committee has appointed as the contact.
+
+## Mailing list
+
+There is a community email list for announcements/questions. To be added to the email list write to the contact email address above.
+
+If you want to unsubscribe to the email list, send an email to accelerator_middle_layer-unsubscribe@esrf.fr and you are automatically unsubscribed.
+
 ## Weekly meeting
 
 We have a weekly open zoom meeting for those who want to work on the specification documents together.
@@ -26,6 +34,4 @@ Choose to login with Gitlab and then "Sign in with Helmholtz ID". You should the
 
 
 
-## Mailing list
 
-To be added to the pyAML mailing list please write to S. Liuzzo.
