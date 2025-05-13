@@ -16,7 +16,7 @@ We have a weekly open zoom meeting for those who want to work on the specificati
 
 Fridays 9.00-10.00 (CET): https://esrf.zoom.us/j/94878115036?pwd=2rsI5goxratGwXc5mRT99suMky2I34.1
 
-Next week we will work on finishing chapter 2 in the Tutorial document. We are currently at section 2.2.8.
+Next week we will start discussing chapter 3.
 
 ## Shared documents
 
