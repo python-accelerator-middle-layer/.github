@@ -28,8 +28,6 @@ Specification (general description):  https://www.overleaf.com/6632675387jrmgtdn
 
 User Interface Specification (this was previously called Tutorial) (examples and code snippets):  https://www.overleaf.com/8296337372wkxgpsdvrptp#3d77d7
 
-A document to gather and identify required configuration data is here: [https://docs.google.com/document/d/1z_zSuKk6avBm0qupLpB4oZKf796rdkB_IeK6ABEj4Ic/edit?usp=sharing](https://docs.google.com/document/d/1z_zSuKk6avBm0qupLpB4oZKf796rdkB_IeK6ABEj4Ic/edit?usp=sharing)
-
 ## Discussions
 
 [Mattermost channel](https://mattermost.hzdr.de/signup_user_complete/?id=cdcea9p8hfr3ic8jdrrydzxxpy&md=link&sbr=su)
