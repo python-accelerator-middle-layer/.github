@@ -4,7 +4,7 @@ Information about the project is available at [https://python-accelerator-middle
 
 There you can find times for upcoming meetings and information about how to join the community.
 
-#### Instructions for testing
+### Instructions for testing
 
 There are currently two repositories to test. Instructions for how test are below:
 
