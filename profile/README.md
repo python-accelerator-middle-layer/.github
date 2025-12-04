@@ -24,4 +24,4 @@ Instructions for how to install is in the README. Examples are available in exam
 **How to provide feedback**
 
 - If you have issues, put them in the respective repository.
-- For the general feedback, put that in the general discussions [https://github.com/orgs/python-accelerator-middle-layer/discussions](https://github.com/orgs/python-accelerator-middle-layer/discussions).
+- For the general feedback, put that in the general discussions: [https://github.com/orgs/python-accelerator-middle-layer/discussions](https://github.com/orgs/python-accelerator-middle-layer/discussions).
